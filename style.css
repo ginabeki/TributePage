@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+div img #image {
+  height: 25px;
+  width: 20px;
+}
+#img-caption {
+  text-align: center;
+}
